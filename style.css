@@ -1,0 +1,62 @@
+html,body{
+	margin:0;
+	padding:0;
+	width:100%;
+	height:100%;
+	background-color:rgb(9 , 47 , 20);
+}
+.tailleImage{
+	width:200px;
+	height:200px;
+	border-radius:100px;
+	border:3px solid rgb(9 , 47 , 20);
+}
+.image{
+	position:absolute;
+	left:43%;
+	top:20%;
+
+}
+.texte{
+	
+	position:relative;
+	top:395px;
+	left:5px;
+	text-align:center;
+	font-family:broadway;
+	font-size:30px;
+}
+.barreDeRecherhe{
+text-align:center;
+position:relative;
+top:450px;
+left:5px;
+font-family:Aharoni;
+}
+.tailleFormulaire{
+	/*padding:10px 50px;*/
+	border-radius:20px;
+	font-family:Aharoni;
+	padding:10px 90px;
+}
+.bouton{
+	text-align:center;
+	position:relative;
+	top:470px;
+	left:5px;
+	
+	
+}
+button{
+	border-radius:20px;
+	padding:10px 50px;
+	font-weight:bolder;
+	font-family:Kristen ITC;
+	background-color:rgb(9 , 47 , 20);
+}
+.contenu{
+	border:5px solid black;
+	height:654px;
+	margin:0 30% 0 30%;
+	background-color:rgb(98 , 9 ,196);
+}
